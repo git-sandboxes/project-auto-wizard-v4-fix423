@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "lastUpdated": "2026-10-16T05:50:00Z",
+    "currentVersion": "0.1.0",
+    "projectTypes": [
+      "node"
+    ],
+    "totalReleases": 1
+  },
+  "releases": [
+    {
+      "version": "0.1.0",
+      "project_types": [
+        "node"
+      ],
+      "date": "2026-10-16",
+      "pr_number": 1,
+      "raw_summary": "### ✨ Features\n- 수정본 첫 릴리스 확인",
+      "parsed_changes": {
+        "feat": {
+          "title": "✨ Features",
+          "items": [
+            "수정본 첫 릴리스 확인"
+          ]
+        }
+      },
+      "parse_method": "markdown"
+    }
+  ]
+}
